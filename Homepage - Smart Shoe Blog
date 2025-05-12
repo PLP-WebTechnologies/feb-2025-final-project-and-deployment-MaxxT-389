@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Shoe Sales Blog</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>The Smart Steps Blog</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html" class="active">Home</a></li>
+                <li><a href="about.html">About Smart Shoes</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <article class="blog-post">
+            <h2>The Future is Now: Exploring Our Latest Smart Shoe Line</h2>
+            <p class="post-meta">Published on May 12, 2025 by Tech Footwear Insights</p>
+            <img src="https://via.placeholder.com/600/a7d1eb/333333?Text=Smart+Shoe+Tech" alt="Smart Shoe Technology">
+            <p>Step into innovation with our brand-new collection of smart shoes! Discover how cutting-edge technology seamlessly integrates with comfort and style. From built-in fitness trackers to personalized cushioning, these shoes are designed to elevate your every step. Learn about the key features and benefits that make our smart shoes a game-changer.</p>
+            <a href="#">Read More</a>
+        </article>
+
+        <article class="blog-post">
+            <h2>Top 5 Reasons to Invest in Smart Footwear</h2>
+            <p class="post-meta">Published on May 12, 2025 by Smart Shoe Trends</p>
+            <img src="https://via.placeholder.com/600/c2f0c2/555555?Text=Benefits+of+Smart+Shoes" alt="Benefits of Smart Shoes">
+            <p>Are you on the fence about smart shoes? We've compiled the top 5 compelling reasons why investing in smart footwear is a smart move. From enhanced performance tracking to improved posture and even safety features, these shoes offer more than meets the eye. Find out how they can revolutionize your daily routine and workouts.</p>
+            <a href="#">Read More</a>
+        </article>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 The Smart Steps Blog - Stepping into the future from Kenya 🇰🇪</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
